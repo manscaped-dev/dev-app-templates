@@ -1,0 +1,8 @@
+{
+    "app_name": "Manscaped 5 Server Application Name",
+    "__description": "Manscaped 5 Server Application (Basic Application Template) - SRE Provided Template",
+    "__temp_name": "{{ cookiecutter.app_name.replace('_', ' ').replace('-', ' ').lower() }}",
+    "__project_title": "{{ cookiecutter.__temp_name | title }}",
+    "__project_slug": "{{ cookiecutter.__temp_name.replace(' ', '_') }}",
+    "__authors": ["Philip De Lorenzo <phil.delorenzo@manscaped.com>, Ryan McCarty <ryan.mccarty@manscaped.com>"]
+}
