@@ -1,0 +1,8 @@
+---
+# Doppler config
+# This will be prefaced with the Doppler environment when the config is created
+# Place all of your Doppler variables here - you will need to add the values in the Doppler UI at this time
+vars:
+  - var-name-1
+  - var-name-2
+  - var-name-3
